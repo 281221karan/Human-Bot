@@ -8,29 +8,27 @@ Built using **Streamlit**, this chatbot also supports fallback to **Google Gemin
 
 ## 🚀 Features
 
-- 🧠 **Vision-Language Understanding** via `Qwen2.5-VL`
-- 🔍 **Image/PDF Retrieval** using `ColQwen2.5`
+- 🧠 **Vision-Language Understanding** via `Qwen/Qwen2.5-VL-7B-Instruct`
+- 🔍 **Image/PDF Retrieval** using `nvidia/llama-nemoretriever-colembed-3b-v1`
 - 🗃️ Upload **PDF**, **IMAGES** files
 - 🔄 **Document-aware question answering**
-- 📎 **Gemini API fallback** when no document is uploaded
-- 💬 Clean UI with
 
 ---
-# SETUP
+## SETUP
 
-## CLOUD
+# CLOUD
 
 Every thing is already setup for you, you just need to click **RUN**
 
-**https://lightning.ai/bindaas281221/vision-model/studios/vl-rag/code?turnOn=true**
+**https://lightning.ai/karan281221/human-bot/studios/human-bot/code?source=copylink**
 
 Just visit the link and follow the **video** given below:
 
-**https://www.dropbox.com/scl/fi/nfqubppfxtqn3ww179hbi/VL-RAG-tutorial.mp4?rlkey=00e3jj0ncdevb1vdj2f516o30&st=743wrcca&dl=0**
+**  **
 
-this setup does not required any type of *GPU*, its running on cloud, the only thing that required is **Login** here **https://lightning.ai/**
+this setup does not required any type of *GPU*, its running on *cloud*, the only thing that required is **Login** here **https://lightning.ai/**
 
-## LOCALLY
+# LOCALLY
 **Requirements**
 
 at least **48GB** GPU memory
