@@ -8,6 +8,7 @@ Built using **Streamlit**, this chatbot also supports fallback to **Google Gemin
 
 ## 🚀 Features
 
+- 😎 **Smart** `Google Gemini`
 - 🧠 **Vision-Language Understanding** via `Qwen/Qwen2.5-VL-7B-Instruct`
 - 🔍 **Image/PDF Retrieval** using `nvidia/llama-nemoretriever-colembed-3b-v1`
 - 🗃️ Upload **PDF**, **IMAGES** files
