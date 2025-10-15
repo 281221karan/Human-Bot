@@ -1,4 +1,4 @@
-# 🤖 Vision-Language RAG ChatBot
+# 🤖 Human Bot
 
 A powerful, multimodal chatbot that combines **Vision-Language Models (VLMs)** and **Retrieval-Augmented Generation (RAG)** to answer questions based on uploaded **PDFs** or **images**.
 
