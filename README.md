@@ -47,7 +47,7 @@ This system integrates **retrieval-augmented generation (RAG)** with **multimoda
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/human-bot.git
+git clone https://github.com/281221karan/Human-Bot.git
 cd human-bot
 ```
 
@@ -62,23 +62,6 @@ venv\Scripts\activate       # Windows
 Create a `requirements.txt` (example below 👇) and install:
 ```bash
 pip install -r requirements.txt
-```
-
-**Example `requirements.txt`:**
-```txt
-streamlit
-langchain
-langchain-core
-langchain-community
-langchain-google-genai
-langgraph
-transformers
-torch
-pdf2image
-Pillow
-duckduckgo-search
-python-dotenv
-sqlite3-binary
 ```
 
 > **Note:**  
