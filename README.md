@@ -42,6 +42,9 @@ This system integrates **retrieval-augmented generation (RAG)** with **multimoda
 ```
 
 ---
+## Direct Link
+
+```https://lightning.ai/karan281221/human-bot/studios/human-bot/code?source=copylink```
 
 ## ⚙️ Setup Instructions
 
